@@ -1,0 +1,3 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"CH1, CH2, CH3, CH4, CH5",SW_Kailh_Choc_Mini_1.00u,5,choc_SW_solder,
+"J1, J2",PinHeader_1x03_P2.54mm_Vertical,2,Conn_01x03_Pin,
