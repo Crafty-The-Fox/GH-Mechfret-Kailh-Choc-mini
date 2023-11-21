@@ -1,2 +1,3 @@
 # GH-Mechfret-Kailh-Choc-mini
-custom drop-in replacement for the fret PCB for Guitar Hero controllers using Kailh Choc Mini switches
+Custom drop-in replacement for the fret PCB for Guitar Hero controllers using Kailh Choc Mini switches. Please check the license before use.
+
