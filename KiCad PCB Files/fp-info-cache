@@ -1,4 +1,4 @@
-23146981780896060
+23148699160827143
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -67113,7 +67113,7 @@ SW_Kailh_Choc_Mini_2.00u
 Kailh Choc Mini CPG1232 low profile keyswitch Keycap 2.00u
 Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout Keycap 2.00u
 0
-2
+6
 2
 PCM_Switch_Keyboard_Kailh
 SW_Kailh_Choc_Mini_2.00u_90deg
@@ -95955,3 +95955,10 @@ varistor
 0
 2
 2
+sk9822-ec20
+SK9822-EC20
+
+
+0
+6
+6
