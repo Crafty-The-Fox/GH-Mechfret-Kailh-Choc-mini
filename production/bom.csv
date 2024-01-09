@@ -1,0 +1,5 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"CH1, CH2, CH3, CH4, CH5",SW_Kailh_Choc_Mini,5,choc_SW_solder,
+"J1, J2",PinHeader_1x03_P2.54mm_Vertical,2,Conn_01x03_Pin,
+J3,PinHeader_1x04_P2.54mm_Vertical,1,Conn_01x04_Pin,
+"LED1, LED2, LED3, LED4, LED5",SK9822-EC20,5,~,
